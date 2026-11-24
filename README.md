@@ -1,22 +1,21 @@
-# Your Business Website
+# Prateek Gupta (AlfaHr) — Online Clothing & Apparel Store
 
-Static, responsive website template for a business website.
+Official business and policy website for **Prateek Gupta**, operated by **AlfaHr** (Individual / Sole Proprietorship), selling clothing, apparel, and dresses online with direct delivery across India.
+
+## Business Details
+- **Store / Website Name:** Prateek Gupta
+- **Legal Registered Name:** AlfaHr
+- **Business Type:** Individual / Sole Proprietorship
+- **Address:** 112/97 Hewet Road, VN Marg, Prayagraj, Uttar Pradesh 211003, India
+- **Support Email:** prateekgupta0699@gmail.com
+- **Customer Support Phone:** +91 6307745191
+- **Working Hours:** Monday to Saturday, 10:00 AM – 6:00 PM IST
 
 ## Files
-- `index.html` — home page
-- `about.html` — business information
-- `contact.html` — customer support details
-- `privacy-policy.html` — privacy policy template
-- `terms.html` — terms and conditions template
-- `refund-policy.html` — cancellation and refund policy template
+- `index.html` — home page showcasing clothing, apparel, and dresses, policy links, and support details
+- `about.html` — business profile, legal entity disclosure, and product/delivery overview
+- `contact.html` — customer support contact details and payment support guidance
+- `privacy-policy.html` — privacy policy detailing order, shipping, and payment reference data collection
+- `terms.html` — terms and conditions for online apparel orders, pricing, payments, and delivery
+- `refund-policy.html` — cancellation and refund policy (5–7 business days to original payment method)
 - `style.css` — shared responsive styles
-
-## Before publishing
-1. Replace every bracketed placeholder with accurate business information.
-2. Replace “Your Business Name” with the actual trading name and ensure the legal name is disclosed where appropriate.
-3. Add real, monitored email and phone contact details and the full business address.
-4. Describe only products/services the business actually provides.
-5. Customize privacy, terms, cancellation and refund policies to match actual practices and applicable law; obtain legal review where needed.
-6. Test all pages and links on desktop and mobile.
-
-These pages are generic templates, not legal advice. A published website should not be represented as a verified payment merchant website until its content is complete, accurate and genuinely reflects the business.
